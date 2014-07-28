@@ -3,7 +3,7 @@
 CSS Icons (no images or javascript)<br/>
 adding new icons daily
 
-<a href="http://brettmccaffray.com/gitex/wire-icons/" target="_blank">DEMO</a>
+<a href="http://brettmccaffray.com/webapps/wire-icons/" target="_blank">DEMO</a>
 
 <h3>instructions</h3>
 
